@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/earlyaccess/alefhebrew.css);
+
+.docs-section {
+    border-top: 1px solid #eee;
+    padding: 4rem 0;
+    margin-bottom: 0;
+    }
+
+.hebrew {
+    direction: rtl;
+    font-family: "Alef Hebrew", sans-serif;
+}
